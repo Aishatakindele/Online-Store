@@ -13,3 +13,9 @@ a{
 .a-hover:hover{
     color: rgb(241, 89, 33);
 }
+.text-mine{
+    color: black;
+}
+.text-mine:hover{
+    color: rgb(241, 89, 33);
+}
