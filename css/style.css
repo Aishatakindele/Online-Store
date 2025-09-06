@@ -19,3 +19,13 @@ a{
 .text-mine:hover{
     color: rgb(241, 89, 33);
 }
+.form-control{
+    border-radius: o !important;
+}
+.form-control:focus{
+    box-shadow: none;
+    border-color: rgb(241, 89, 33);
+}
+.input-width{
+    width: 400px;
+}
